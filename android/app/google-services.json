@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294189865153",
+    "project_id": "syncpulse-testing",
+    "storage_bucket": "syncpulse-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294189865153:android:899594125b4a6a085edc40",
+        "android_client_info": {
+          "package_name": "id.financialinstru.app.myfinancial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294189865153-al1nmdn8mhgbmkdlrtvh52207afhtvms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDFIJY7nen00SIUBhGONnBvZfYjfCeJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294189865153-al1nmdn8mhgbmkdlrtvh52207afhtvms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
