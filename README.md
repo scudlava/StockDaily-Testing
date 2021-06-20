@@ -23,5 +23,5 @@ This project using 3rd party API :
 3. Algolia for search data 
 
 # how to use apps
-1. download demo apk in here :
+1. download demo apk in here : https://drive.google.com/file/d/1IJYQAah2s_WmagBDhYVuVmgxSL5xoHue/view?usp=sharing
 2. minimum android version is Android SDK 16
